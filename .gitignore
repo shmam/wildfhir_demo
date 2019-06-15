@@ -1,0 +1,6 @@
+## virtual env folder and all that stuff
+wildfhir_venv/
+__pycache__
+.vscode
+.pytest_cache
+test/__pycache__
