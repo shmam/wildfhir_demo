@@ -24,6 +24,8 @@ This is just a space for me to do research on my intern project and become famil
 - [ ] basic text responses -> JSON responses with HTTP codes
 - [ ] unit and acceptance tests
 - [ ] Swagger for documentation
+- [ ] Use FHIR data models
+- [ ] breaking this up into seperate files
 
 ## Notes for self
 
@@ -60,4 +62,6 @@ $ ...
 
 ## Resources
 - [Building a CRUD application with Flask and SQLAlchemy](https://www.codementor.io/garethdwyer/building-a-crud-application-with-flask-and-sqlalchemy-dm3wv7yu2)
--
+- [HTTP codes](https://www.restapitutorial.com/httpstatuscodes.html)
+- [Flask-SQLAlchemy models in seperate files](https://stackoverflow.com/questions/9692962/flask-sqlalchemy-import-context-issue/9695045#9695045)
+- [Status codes in flask](https://stackoverflow.com/questions/7824101/return-http-status-code-201-in-flask)

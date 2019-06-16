@@ -17,4 +17,3 @@ class TestClass(object):
         assert (int_value >= 0) is True
         assert (int_value <= 100) is True
 
-

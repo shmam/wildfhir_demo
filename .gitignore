@@ -1,7 +1,9 @@
 ## virtual env folder and all that stuff
-wildfhir_venv/
+
 __pycache__
 .vscode
 .pytest_cache
+## wildfhir_venv/
+models/__pycache__
 test/__pycache__
 emojidatabase.db
